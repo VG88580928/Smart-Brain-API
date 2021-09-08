@@ -1,4 +1,5 @@
 ## 資料庫結構
+有兩個tables
 users table:
 ```sql
 CREATE TABLE users (
