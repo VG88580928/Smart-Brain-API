@@ -1,5 +1,5 @@
-## 資料庫結構
-有兩個tables  
+此為Smart-Brain-App後端部分的實作
+## 資料庫結構 
 users table:
 ```sql
 CREATE TABLE users (
