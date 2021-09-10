@@ -1,6 +1,6 @@
 此為Smart-Brain-App後端部分的實作  
-網站地址:https://smart-brain7777.herokuapp.com/
-前端repo:https://github.com/VG88580928/Smart-Brain-App
+網站地址:https://smart-brain7777.herokuapp.com/  
+前端repo:https://github.com/VG88580928/Smart-Brain-App  
 ## 資料庫結構 
 users table:
 ```sql
