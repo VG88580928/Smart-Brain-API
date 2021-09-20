@@ -3,7 +3,7 @@
 ## 資料庫結構 
 共有2個tables  
 
-users table(用戶基本資訊):  
+users table(儲存用戶基本資訊):  
 ```
 id | name |     email     | entries |         joined
 ----+------+---------------+---------+-------------------------
