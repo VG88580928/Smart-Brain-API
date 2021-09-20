@@ -22,7 +22,7 @@ CREATE TABLE users (
 	joined TIMESTAMP NOT NULL
 );
 ```
-login table(儲存用戶密碼等安全資訊):  
+- login table(儲存用戶密碼等安全資訊):  
 ```
  id |                             hash                             |     email
 ----+--------------------------------------------------------------+---------------
